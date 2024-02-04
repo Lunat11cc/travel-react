@@ -1,4 +1,4 @@
-# Одностраничный сайт на тему туризм Travel (React + SCSS)
+# 🌏 Сайт на тему туризм Travel (React + SCSS)
 
 ![image](https://github.com/Lunat11cc/travel-react/assets/107105044/af5dadf0-19d6-4fd8-9251-1f1b2b8a9163)
 
