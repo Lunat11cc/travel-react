@@ -1,4 +1,4 @@
-# 🌏 Travel web-site (React + SCSS)
+# 🌏 Travel web-site (React + SASS)
 
 ![image](https://github.com/Lunat11cc/travel-react/assets/107105044/af5dadf0-19d6-4fd8-9251-1f1b2b8a9163)
 
